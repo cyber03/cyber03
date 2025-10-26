@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cyber03
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning bash
+- 👀 Data Engineer, Learning ML
 - 📫 How to reach me 
-https://www.linkedin.com/in/harish-babu-s-s-54b9731a0/
+https://www.linkedin.com/in/harish-babu-s-s-dataandai/
 
 <!---
 cyber03/cyber03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
