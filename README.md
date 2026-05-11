@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyber03
-- 👀 Data Engineer, Learning ML
+- 👀 Data Engineer, Exploring AI agents
 - 📫 How to reach me 
 https://www.linkedin.com/in/harish-babu-s-s-dataandai/
 
